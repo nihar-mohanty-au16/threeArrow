@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;600&family=Sacramento&display=swap");
+
+.listing {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+}
+.heading {
+  align-self: center;
+  font-family: 'Sacramento', cursive;
+  font-weight: 30px;
+}
